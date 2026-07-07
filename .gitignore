@@ -1,0 +1,6 @@
+models/
+outputs/
+checkpoints/
+logs/
+wandb/
+data/
