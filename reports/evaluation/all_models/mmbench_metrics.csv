@@ -1,0 +1,6 @@
+﻿model,accuracy,examples,dataset
+Qwen2.5-VL базовая,0.796,500,MMBench-ru
+Qwen2.5-VL + LoRA #2,0.788,500,MMBench-ru
+Qwen2.5-VL + LoRA #1,0.786,500,MMBench-ru
+SmolVLM базовая,0.364,500,MMBench-ru
+SmolVLM + LoRA,0.346,500,MMBench-ru
