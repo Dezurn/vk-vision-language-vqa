@@ -1,101 +1,121 @@
 ﻿model_name,category,accuracy,examples
-Qwen2.5-VL + LoRA #1,object_localization,0.3953488372093023,43
-Qwen2.5-VL + LoRA #1,spatial_relationship,0.4,20
-Qwen2.5-VL + LoRA #1,image_quality,0.4482758620689655,29
-Qwen2.5-VL + LoRA #1,physical_relation,0.5,10
-Qwen2.5-VL + LoRA #1,physical_property_reasoning,0.5789473684210527,19
-Qwen2.5-VL + LoRA #1,future_prediction,0.6,15
-Qwen2.5-VL + LoRA #1,nature_relation,0.6875,16
-Qwen2.5-VL + LoRA #1,ocr,0.7222222222222222,18
-Qwen2.5-VL + LoRA #1,structuralized_imagetext_understanding,0.7222222222222222,18
-Qwen2.5-VL + LoRA #1,attribute_comparison,0.8,5
-Qwen2.5-VL + LoRA #1,image_topic,0.8666666666666667,15
-Qwen2.5-VL + LoRA #1,image_emotion,0.8709677419354839,31
-Qwen2.5-VL + LoRA #1,action_recognition,0.8857142857142857,35
-Qwen2.5-VL + LoRA #1,attribute_recognition,0.9,20
-Qwen2.5-VL + LoRA #1,function_reasoning,0.9230769230769231,39
-Qwen2.5-VL + LoRA #1,image_style,0.9354838709677419,31
-Qwen2.5-VL + LoRA #1,social_relation,0.9545454545454546,22
-Qwen2.5-VL + LoRA #1,celebrity_recognition,1.0,35
-Qwen2.5-VL + LoRA #1,identity_reasoning,1.0,22
-Qwen2.5-VL + LoRA #1,image_scene,1.0,57
-Qwen2.5-VL + LoRA #2,spatial_relationship,0.4,20
-Qwen2.5-VL + LoRA #2,object_localization,0.4186046511627907,43
-Qwen2.5-VL + LoRA #2,image_quality,0.4827586206896552,29
-Qwen2.5-VL + LoRA #2,physical_relation,0.5,10
-Qwen2.5-VL + LoRA #2,future_prediction,0.5333333333333333,15
-Qwen2.5-VL + LoRA #2,physical_property_reasoning,0.5789473684210527,19
-Qwen2.5-VL + LoRA #2,nature_relation,0.6875,16
-Qwen2.5-VL + LoRA #2,structuralized_imagetext_understanding,0.7222222222222222,18
-Qwen2.5-VL + LoRA #2,ocr,0.7777777777777778,18
-Qwen2.5-VL + LoRA #2,attribute_comparison,0.8,5
-Qwen2.5-VL + LoRA #2,image_topic,0.8666666666666667,15
-Qwen2.5-VL + LoRA #2,image_emotion,0.8709677419354839,31
-Qwen2.5-VL + LoRA #2,action_recognition,0.8857142857142857,35
-Qwen2.5-VL + LoRA #2,attribute_recognition,0.9,20
-Qwen2.5-VL + LoRA #2,image_style,0.9032258064516129,31
-Qwen2.5-VL + LoRA #2,function_reasoning,0.9230769230769231,39
-Qwen2.5-VL + LoRA #2,social_relation,0.9545454545454546,22
-Qwen2.5-VL + LoRA #2,celebrity_recognition,1.0,35
-Qwen2.5-VL + LoRA #2,identity_reasoning,1.0,22
-Qwen2.5-VL + LoRA #2,image_scene,1.0,57
-Qwen2.5-VL базовая,spatial_relationship,0.4,20
-Qwen2.5-VL базовая,object_localization,0.46511627906976744,43
-Qwen2.5-VL базовая,physical_relation,0.5,10
-Qwen2.5-VL базовая,image_quality,0.5172413793103449,29
-Qwen2.5-VL базовая,physical_property_reasoning,0.5789473684210527,19
-Qwen2.5-VL базовая,future_prediction,0.6666666666666666,15
-Qwen2.5-VL базовая,nature_relation,0.6875,16
-Qwen2.5-VL базовая,ocr,0.7222222222222222,18
-Qwen2.5-VL базовая,structuralized_imagetext_understanding,0.7222222222222222,18
-Qwen2.5-VL базовая,attribute_comparison,0.8,5
-Qwen2.5-VL базовая,image_topic,0.8666666666666667,15
-Qwen2.5-VL базовая,image_emotion,0.8709677419354839,31
-Qwen2.5-VL базовая,action_recognition,0.8857142857142857,35
-Qwen2.5-VL базовая,attribute_recognition,0.9,20
-Qwen2.5-VL базовая,social_relation,0.9090909090909091,22
-Qwen2.5-VL базовая,function_reasoning,0.9230769230769231,39
-Qwen2.5-VL базовая,image_style,0.9354838709677419,31
-Qwen2.5-VL базовая,celebrity_recognition,1.0,35
-Qwen2.5-VL базовая,identity_reasoning,1.0,22
-Qwen2.5-VL базовая,image_scene,1.0,57
-SmolVLM + LoRA,attribute_comparison,0.0,5
-SmolVLM + LoRA,physical_property_reasoning,0.21052631578947367,19
-SmolVLM + LoRA,object_localization,0.23255813953488372,43
-SmolVLM + LoRA,spatial_relationship,0.25,20
-SmolVLM + LoRA,action_recognition,0.2857142857142857,35
-SmolVLM + LoRA,image_style,0.2903225806451613,31
-SmolVLM + LoRA,function_reasoning,0.3076923076923077,39
-SmolVLM + LoRA,celebrity_recognition,0.3142857142857143,35
-SmolVLM + LoRA,social_relation,0.3181818181818182,22
-SmolVLM + LoRA,future_prediction,0.3333333333333333,15
-SmolVLM + LoRA,image_topic,0.3333333333333333,15
-SmolVLM + LoRA,ocr,0.3333333333333333,18
-SmolVLM + LoRA,structuralized_imagetext_understanding,0.3333333333333333,18
-SmolVLM + LoRA,attribute_recognition,0.4,20
-SmolVLM + LoRA,physical_relation,0.4,10
-SmolVLM + LoRA,image_scene,0.40350877192982454,57
-SmolVLM + LoRA,image_quality,0.41379310344827586,29
-SmolVLM + LoRA,identity_reasoning,0.5,22
-SmolVLM + LoRA,nature_relation,0.5,16
-SmolVLM + LoRA,image_emotion,0.5483870967741935,31
-SmolVLM базовая,attribute_comparison,0.0,5
-SmolVLM базовая,object_localization,0.20930232558139536,43
-SmolVLM базовая,image_style,0.25806451612903225,31
-SmolVLM базовая,physical_property_reasoning,0.2631578947368421,19
-SmolVLM базовая,ocr,0.2777777777777778,18
-SmolVLM базовая,celebrity_recognition,0.2857142857142857,35
-SmolVLM базовая,action_recognition,0.3142857142857143,35
-SmolVLM базовая,future_prediction,0.3333333333333333,15
-SmolVLM базовая,structuralized_imagetext_understanding,0.3333333333333333,18
-SmolVLM базовая,spatial_relationship,0.35,20
-SmolVLM базовая,function_reasoning,0.358974358974359,39
-SmolVLM базовая,social_relation,0.36363636363636365,22
-SmolVLM базовая,attribute_recognition,0.4,20
-SmolVLM базовая,physical_relation,0.4,10
-SmolVLM базовая,nature_relation,0.4375,16
-SmolVLM базовая,image_quality,0.4482758620689655,29
-SmolVLM базовая,image_topic,0.4666666666666667,15
-SmolVLM базовая,image_scene,0.47368421052631576,57
-SmolVLM базовая,identity_reasoning,0.5,22
-SmolVLM базовая,image_emotion,0.5483870967741935,31
+Qwen2.5-VL + LoRA #1,future_prediction,0.475,120
+Qwen2.5-VL + LoRA #1,spatial_relationship,0.4827586206896552,174
+Qwen2.5-VL + LoRA #1,image_quality,0.5,154
+Qwen2.5-VL + LoRA #1,object_localization,0.5960912052117264,307
+Qwen2.5-VL + LoRA #1,structuralized_imagetext_understanding,0.6308724832214765,149
+Qwen2.5-VL + LoRA #1,physical_relation,0.631578947368421,76
+Qwen2.5-VL + LoRA #1,physical_property_reasoning,0.6961325966850829,181
+Qwen2.5-VL + LoRA #1,nature_relation,0.7558139534883721,172
+Qwen2.5-VL + LoRA #1,attribute_comparison,0.7572815533980582,103
+Qwen2.5-VL + LoRA #1,image_emotion,0.775,200
+Qwen2.5-VL + LoRA #1,function_reasoning,0.8333333333333334,300
+Qwen2.5-VL + LoRA #1,ocr,0.8633093525179856,139
+Qwen2.5-VL + LoRA #1,attribute_recognition,0.868995633187773,229
+Qwen2.5-VL + LoRA #1,image_style,0.8952380952380953,210
+Qwen2.5-VL + LoRA #1,image_topic,0.912,125
+Qwen2.5-VL + LoRA #1,action_recognition,0.9310344827586207,203
+Qwen2.5-VL + LoRA #1,social_relation,0.9418604651162791,172
+Qwen2.5-VL + LoRA #1,celebrity_recognition,0.9566563467492261,323
+Qwen2.5-VL + LoRA #1,identity_reasoning,0.96,175
+Qwen2.5-VL + LoRA #1,image_scene,0.9773869346733668,398
+Qwen2.5-VL + LoRA #2,spatial_relationship,0.47701149425287354,174
+Qwen2.5-VL + LoRA #2,future_prediction,0.525,120
+Qwen2.5-VL + LoRA #2,image_quality,0.538961038961039,154
+Qwen2.5-VL + LoRA #2,object_localization,0.5993485342019544,307
+Qwen2.5-VL + LoRA #2,structuralized_imagetext_understanding,0.6644295302013423,149
+Qwen2.5-VL + LoRA #2,physical_relation,0.6710526315789473,76
+Qwen2.5-VL + LoRA #2,physical_property_reasoning,0.6850828729281768,181
+Qwen2.5-VL + LoRA #2,attribute_comparison,0.7378640776699029,103
+Qwen2.5-VL + LoRA #2,nature_relation,0.7732558139534884,172
+Qwen2.5-VL + LoRA #2,image_emotion,0.78,200
+Qwen2.5-VL + LoRA #2,function_reasoning,0.8333333333333334,300
+Qwen2.5-VL + LoRA #2,attribute_recognition,0.8777292576419214,229
+Qwen2.5-VL + LoRA #2,image_style,0.8904761904761904,210
+Qwen2.5-VL + LoRA #2,ocr,0.8920863309352518,139
+Qwen2.5-VL + LoRA #2,image_topic,0.896,125
+Qwen2.5-VL + LoRA #2,action_recognition,0.9211822660098522,203
+Qwen2.5-VL + LoRA #2,social_relation,0.9418604651162791,172
+Qwen2.5-VL + LoRA #2,celebrity_recognition,0.9504643962848297,323
+Qwen2.5-VL + LoRA #2,identity_reasoning,0.9657142857142857,175
+Qwen2.5-VL + LoRA #2,image_scene,0.9798994974874372,398
+Qwen2.5-VL + LoRA #3,spatial_relationship,0.4942528735632184,174
+Qwen2.5-VL + LoRA #3,image_quality,0.551948051948052,154
+Qwen2.5-VL + LoRA #3,future_prediction,0.575,120
+Qwen2.5-VL + LoRA #3,object_localization,0.5863192182410424,307
+Qwen2.5-VL + LoRA #3,physical_property_reasoning,0.6685082872928176,181
+Qwen2.5-VL + LoRA #3,physical_relation,0.6842105263157895,76
+Qwen2.5-VL + LoRA #3,structuralized_imagetext_understanding,0.697986577181208,149
+Qwen2.5-VL + LoRA #3,attribute_comparison,0.7087378640776699,103
+Qwen2.5-VL + LoRA #3,image_emotion,0.8,200
+Qwen2.5-VL + LoRA #3,nature_relation,0.8023255813953488,172
+Qwen2.5-VL + LoRA #3,function_reasoning,0.84,300
+Qwen2.5-VL + LoRA #3,attribute_recognition,0.8733624454148472,229
+Qwen2.5-VL + LoRA #3,action_recognition,0.8817733990147784,203
+Qwen2.5-VL + LoRA #3,image_style,0.8904761904761904,210
+Qwen2.5-VL + LoRA #3,ocr,0.8992805755395683,139
+Qwen2.5-VL + LoRA #3,image_topic,0.912,125
+Qwen2.5-VL + LoRA #3,identity_reasoning,0.9428571428571428,175
+Qwen2.5-VL + LoRA #3,social_relation,0.9476744186046512,172
+Qwen2.5-VL + LoRA #3,celebrity_recognition,0.9597523219814241,323
+Qwen2.5-VL + LoRA #3,image_scene,0.9773869346733668,398
+Qwen2.5-VL базовая,spatial_relationship,0.4885057471264368,174
+Qwen2.5-VL базовая,future_prediction,0.5083333333333333,120
+Qwen2.5-VL базовая,image_quality,0.538961038961039,154
+Qwen2.5-VL базовая,object_localization,0.5863192182410424,307
+Qwen2.5-VL базовая,structuralized_imagetext_understanding,0.6174496644295302,149
+Qwen2.5-VL базовая,physical_relation,0.618421052631579,76
+Qwen2.5-VL базовая,physical_property_reasoning,0.6906077348066298,181
+Qwen2.5-VL базовая,attribute_comparison,0.7378640776699029,103
+Qwen2.5-VL базовая,nature_relation,0.75,172
+Qwen2.5-VL базовая,image_emotion,0.775,200
+Qwen2.5-VL базовая,function_reasoning,0.8466666666666667,300
+Qwen2.5-VL базовая,ocr,0.8561151079136691,139
+Qwen2.5-VL базовая,attribute_recognition,0.8646288209606987,229
+Qwen2.5-VL базовая,image_style,0.8904761904761904,210
+Qwen2.5-VL базовая,image_topic,0.92,125
+Qwen2.5-VL базовая,action_recognition,0.9310344827586207,203
+Qwen2.5-VL базовая,social_relation,0.936046511627907,172
+Qwen2.5-VL базовая,identity_reasoning,0.96,175
+Qwen2.5-VL базовая,celebrity_recognition,0.9628482972136223,323
+Qwen2.5-VL базовая,image_scene,0.9798994974874372,398
+SmolVLM + LoRA,attribute_comparison,0.2524271844660194,103
+SmolVLM + LoRA,future_prediction,0.25833333333333336,120
+SmolVLM + LoRA,object_localization,0.2768729641693811,307
+SmolVLM + LoRA,spatial_relationship,0.28160919540229884,174
+SmolVLM + LoRA,nature_relation,0.31976744186046513,172
+SmolVLM + LoRA,image_style,0.32857142857142857,210
+SmolVLM + LoRA,function_reasoning,0.3333333333333333,300
+SmolVLM + LoRA,physical_relation,0.34210526315789475,76
+SmolVLM + LoRA,physical_property_reasoning,0.34806629834254144,181
+SmolVLM + LoRA,structuralized_imagetext_understanding,0.348993288590604,149
+SmolVLM + LoRA,image_quality,0.35064935064935066,154
+SmolVLM + LoRA,social_relation,0.36046511627906974,172
+SmolVLM + LoRA,image_topic,0.368,125
+SmolVLM + LoRA,action_recognition,0.3694581280788177,203
+SmolVLM + LoRA,celebrity_recognition,0.3715170278637771,323
+SmolVLM + LoRA,image_scene,0.3844221105527638,398
+SmolVLM + LoRA,image_emotion,0.425,200
+SmolVLM + LoRA,attribute_recognition,0.45414847161572053,229
+SmolVLM + LoRA,ocr,0.4748201438848921,139
+SmolVLM + LoRA,identity_reasoning,0.6171428571428571,175
+SmolVLM базовая,attribute_comparison,0.2524271844660194,103
+SmolVLM базовая,future_prediction,0.26666666666666666,120
+SmolVLM базовая,spatial_relationship,0.27011494252873564,174
+SmolVLM базовая,nature_relation,0.27325581395348836,172
+SmolVLM базовая,object_localization,0.2931596091205212,307
+SmolVLM базовая,image_style,0.3,210
+SmolVLM базовая,structuralized_imagetext_understanding,0.3288590604026846,149
+SmolVLM базовая,physical_relation,0.34210526315789475,76
+SmolVLM базовая,function_reasoning,0.3433333333333333,300
+SmolVLM базовая,image_quality,0.35064935064935066,154
+SmolVLM базовая,physical_property_reasoning,0.36464088397790057,181
+SmolVLM базовая,celebrity_recognition,0.37770897832817335,323
+SmolVLM базовая,social_relation,0.38953488372093026,172
+SmolVLM базовая,action_recognition,0.39901477832512317,203
+SmolVLM базовая,image_topic,0.4,125
+SmolVLM базовая,attribute_recognition,0.4279475982532751,229
+SmolVLM базовая,image_emotion,0.43,200
+SmolVLM базовая,image_scene,0.4396984924623116,398
+SmolVLM базовая,ocr,0.4892086330935252,139
+SmolVLM базовая,identity_reasoning,0.6285714285714286,175
