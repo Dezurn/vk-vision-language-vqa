@@ -1,6 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.nbconvert.ipynb
+.virtual_documents/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.agents/
+.codex/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Секреты и локальные настройки
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Датасеты, веса и результаты обучения
+data/
 models/
 outputs/
 checkpoints/
 logs/
 wandb/
-data/
+mlruns/
+.mlflow/
+.dagshub/
+.cache/
+.huggingface/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Временные файлы оценки; итоговые CSV в reports/evaluation остаются в Git
+reports/evaluation/backups/
+reports/evaluation/full_eval_checkpoints/
+reports/evaluation/sample_runs/
+
+# Прочие временные файлы
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
