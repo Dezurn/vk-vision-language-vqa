@@ -215,8 +215,6 @@ python -m jupyter lab
 
 ## Артефакты решения
 
-Итоговое описание постановки задачи, хода работы и полученных результатов приведено в **[отчёте по проектной задаче](<Отчет по проектной задаче.pdf>)**.
-
 В `reports/evaluation` сохранены полные предсказания каждой модели и её метрики. Папка `reports/evaluation/all_models` содержит объединённые таблицы и категориальные разрезы, на которых основаны числа в README и выводы `evaluate_all_models.ipynb`.
 
 Датасеты, исходные веса, неопубликованные LoRA-адаптеры и временные чекпоинты намеренно исключены из Git из-за размера. Две лучшие объединённые Qwen-модели опубликованы на Hugging Face. Репозиторий содержит воспроизводимый код, метрики и полные предсказания всех оценённых конфигураций.
@@ -231,7 +229,7 @@ python -m jupyter lab
 ## Ссылки
 
 - [Репозиторий проекта на GitHub](https://github.com/Dezurn/vk-vision-language-vqa)
-- **[Отчёт по проектной задаче (PDF)](<Отчет по проектной задаче.pdf>)**
+- [Репозиторий проекта на DagsHub](https://dagshub.com/Dezurn/vk-vision-language-vqa)
 - **[Итоговая модель Qwen2.5-VL + LoRA #2 на Hugging Face](https://huggingface.co/Dezurg/qwen2.5-v2-3b-gqa-ru-lora)** — лучшая по GQA-ru Exact Match.
 - **[Итоговая модель Qwen2.5-VL + LoRA #3 на Hugging Face](https://huggingface.co/Dezurg/qwen2.5-v3-3b-gqa-ru-lora)** — лучшая по MMBench-ru Accuracy.
 - [Логи обучения и эксперименты на DagsHub](https://dagshub.com/Dezurn/vk-vision-language-vqa.mlflow)
