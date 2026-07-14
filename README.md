@@ -221,6 +221,8 @@ python -m jupyter lab
 ## Ссылки
 
 - [Репозиторий проекта на GitHub](https://github.com/Dezurn/vk-vision-language-vqa)
+- [Qwen2.5-VL GQA-ru LoRA v2](https://huggingface.co/Dezurg/qwen2.5-v2-3b-gqa-ru-lora)
+- [Qwen2.5-VL GQA-ru LoRA v3](https://huggingface.co/Dezurg/qwen2.5-v3-3b-gqa-ru-lora)
 - [Логи обучения и эксперименты на DagsHub](https://dagshub.com/Dezurn/vk-vision-language-vqa.mlflow)
 - [Коллекция DeepVK Vision-Language Modeling](https://huggingface.co/collections/deepvk/vision-language-modeling-664dd7e4c257cc78e740f6bc)
 - [Vision Language Models Explained](https://huggingface.co/blog/vlms)
